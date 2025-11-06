@@ -4,7 +4,7 @@ import json
 import time
 
 # Configuration
-BACKEND_URL = "https://maps-scraper-runner.preview.emergentagent.com/api"
+BACKEND_URL = "https://app-bootstrap-4.preview.emergentagent.com/api"
 
 def register_and_test():
     # Register a new user

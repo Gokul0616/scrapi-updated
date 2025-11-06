@@ -11,7 +11,7 @@ import sys
 from datetime import datetime
 
 # Configuration
-BACKEND_URL = "https://maps-scraper-runner.preview.emergentagent.com/api"
+BACKEND_URL = "https://app-bootstrap-4.preview.emergentagent.com/api"
 
 class BackendTester:
     def __init__(self):
